@@ -1,4 +1,6 @@
-![K](https://avatars.githubusercontent.com/u/75080347?v=4)
+#Instagram-clone
+
+![K](https://avatars.githubusercontent.com/u/75080347?v=4s)
 
 Hi there,\
 Im `Karuppasamy K`\
