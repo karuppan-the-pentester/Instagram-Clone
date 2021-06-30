@@ -1,4 +1,4 @@
-#Instagram-clone
+# Instagram-clone
 
 ![K](https://avatars.githubusercontent.com/u/75080347?v=4s)
 
